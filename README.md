@@ -1,5 +1,5 @@
-# Stereograms
-A VR viewing app for Ohannes Kurkjian 1880's stereograms of the "Ruins of Ani"
+# Ruins of Ani Steregrams
+A repo of Ohannes Kurkjian 1880's stereograms of the "Ruins of Ani"
 
 ## Background
 A photographer based out of Yerevan, Armenia, Ohannes Kurkjian made a trip to the historic ruins of Ani, the City of 1001 Churchs and the former capital of the Armenian Kingdom. Being on the border of the former Russian and Ottoman Empire, Ohnannes was able to "visit Ani sometime between 1875 and 1880 after the Kars district, including Ani, had been incorporated into the Russian Empire (i.e., after 1877)¹. 
