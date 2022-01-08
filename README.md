@@ -1,4 +1,4 @@
-# Ruins of Ani Steregrams
+# Ruins of Ani Stereographs
 A repo of Ohannes Kurkjian 1880's stereograms of the "Ruins of Ani"
 
 ## Background
@@ -11,7 +11,7 @@ The pairs of photographs are mounted onto printed cards manufactured in Vienna, 
 Source:
 - ¹http://virtualani.org/kurkdjian/index.htm
 
-## Stereograms
+## Stereographs
 Drive link: https://drive.google.com/open?id=1uwWqaFbtF2bCsN03NsxhoU5HaIHfliQa
 
 ## VR Viewing App
